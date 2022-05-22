@@ -26,4 +26,4 @@
   <a href = "mailto:gabriel.lacerd.gr@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabriel-lacerda-9190bb1b0/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
-  ![Snake animation](https://github.com/GabrielLacerda00/GabrielLacerda00)
+  ![Snake animation](https://github.com/GabrielLacerda00/GabrielLacerda00/actions/workflows/main.yml)
