@@ -1,7 +1,7 @@
 ### Hi there, my name is Gabriel Lacerda 👋
 
 - 🧑‍💻I am currently working to develop my skills as a Front-end Developer
-- 🧠 I’m currently learning JavaScript and ReactJS
+- 🧠 I’m currently learning JavaScript and Typescript
 
 <div align="center">
   <a href="https://github.com/GabrielLacerda00">
