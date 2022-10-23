@@ -8,6 +8,8 @@
 
 ![language](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielLacerda00&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117)
 
+[![gabriel_lacerda's Holopin board](https://holopin.io/api/user/board?user=gabriel_lacerda)](https://www.holopin.io/gabriel_lacerda)
+
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
