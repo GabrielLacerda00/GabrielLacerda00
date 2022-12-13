@@ -31,6 +31,5 @@
 - 🖥 &nbsp;
   ![Fimga](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
 
-![Contribution](https://activity-graph.herokuapp.com/graph?username=GabrielLacerda00&theme=gotham&hide_border=true&area=true)
 
 ![Snake animation](https://github.com/GabrielLacerda00/GabrielLacerda00/blob/output/github-contribution-grid-snake.svg)
