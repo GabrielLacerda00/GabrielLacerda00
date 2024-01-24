@@ -1,5 +1,5 @@
 
-### Hi there, my name is Gabriel Lacerda 👋
+## Hi there, my name is Gabriel Lacerda 👋
 
 - 🧑‍💻I am currently working to develop my skills as a Back-end Developer
 - 🧠 I’m currently learning NodeJS with Typescript
@@ -10,7 +10,7 @@
 ## HacktobertFest Event
 [![gabriel_lacerda's Holopin board](https://holopin.io/api/user/board?user=gabriel_lacerda)](https://www.holopin.io/gabriel_lacerda)
 
-## technologies that I use in my daily life
+## Technologies that I use in my daily life
 
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
