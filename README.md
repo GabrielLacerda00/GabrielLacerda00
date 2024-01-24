@@ -2,7 +2,7 @@
 ### Hi there, my name is Gabriel Lacerda 👋
 
 - 🧑‍💻I am currently working to develop my skills as a Back-end Developer
-- 🧠 I’m currently learning JavaScript and Typescript
+- 🧠 I’m currently learning NodeJS with Typescript
   
 ![status](https://github-readme-stats.vercel.app/api?username=GabrielLacerda00&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117)
 
