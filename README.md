@@ -6,6 +6,7 @@
 
 
 https://github-readme-stats.vercel.app/api?username=GabrielLacerda00&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117
+
 ![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielLacerda00&theme=blue-green)
 ![language](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielLacerda00&theme=blue-green)
 
