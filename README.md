@@ -7,7 +7,7 @@
 ![status](https://github-readme-stats.vercel.app/api?username=GabrielLacerda00&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117)
 ![language](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielLacerda00&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117)
 
-## HackbertFest Event
+## HacktobertFest Event
 [![gabriel_lacerda's Holopin board](https://holopin.io/api/user/board?user=gabriel_lacerda)](https://www.holopin.io/gabriel_lacerda)
 
 ## technologies that I use in my daily life
