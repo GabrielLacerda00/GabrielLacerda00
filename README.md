@@ -5,7 +5,7 @@
 - 🧠 I’m currently learning NodeJS with Typescript
   
 ![status](https://github-readme-stats.vercel.app/api?username=GabrielLacerda00&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117)
-![language](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielLacerda00&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117)
+![language](https://github-readme-stats.vercel.app/api/top-langs/?username={GabrielLacerda00}&theme=blue-green)
 
 ## HacktobertFest Event
 [![gabriel_lacerda's Holopin board](https://holopin.io/api/user/board?user=gabriel_lacerda)](https://www.holopin.io/gabriel_lacerda)
@@ -23,10 +23,12 @@
   <img align="center" alt="django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
   <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img align="center" alt="springboot" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+  <img align="center" alt="git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
 </div><br/>
 
 
 
+https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielLacerda00&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
