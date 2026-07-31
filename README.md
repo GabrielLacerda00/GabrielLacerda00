@@ -2,8 +2,12 @@
 # Hi there, my name is Gabriel Lacerda 👋
 
 ## About me
-- 🧑‍💻I am currently working to develop my skills as a Back-end Developer
-- 🧠 I’m currently learning NodeJS with Typescript
+Sou profissional da área de Ciência de Dados, formado em Ciência da Computação, com experiência no desenvolvimento de soluções voltadas para Inteligência Artificial, Machine Learning, Engenharia de Dados e automação de processos. Ao longo da minha trajetória, desenvolvi conhecimentos sólidos na construção de pipelines de dados, implementação de agentes inteligentes e utilização de tecnologias modernas para criação de soluções escaláveis e orientadas a resultados.
+
+Possuo experiência prática em desenvolvimento de soluções utilizando Python, SQL, Databricks, Spark, AWS, GCP e Docker, além da aplicação de Inteligência Artificial Generativa, Processamento de Linguagem Natural e Visão Computacional. Durante minha atuação profissional, participei de projetos envolvendo automação de fluxos de dados, otimização de modelos de Machine Learning e criação de arquiteturas de processamento eficientes para suportar necessidades estratégicas de negócio.
+
+Minha experiência também inclui análise exploratória de dados, modelagem estatística, desenvolvimento de pipelines ETL e pesquisa aplicada em mineração de dados e engenharia de software. Tive a oportunidade de atuar em ambientes multidisciplinares, contribuindo para o desenvolvimento de soluções capazes de gerar maior eficiência operacional, apoiar tomadas de decisão e agregar valor aos processos organizacionais.
+
 
 ![language](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielLacerda00&theme=blue-green)
 ![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielLacerda00&theme=blue-green)
