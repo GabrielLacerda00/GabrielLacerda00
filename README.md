@@ -8,6 +8,7 @@ Possuo experiência prática em desenvolvimento de soluções utilizando Python,
 
 Minha experiência também inclui análise exploratória de dados, modelagem estatística, desenvolvimento de pipelines ETL e pesquisa aplicada em mineração de dados e engenharia de software. Tive a oportunidade de atuar em ambientes multidisciplinares, contribuindo para o desenvolvimento de soluções capazes de gerar maior eficiência operacional, apoiar tomadas de decisão e agregar valor aos processos organizacionais.
 
+----------
 
 ![language](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielLacerda00&theme=blue-green)
 ![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielLacerda00&theme=blue-green)
